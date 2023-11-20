@@ -12,6 +12,9 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="/customer/all">Customer List</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/customer_queue/all">Customer Revive Queue List</a>
+          </li>
         </ul>
       </div>
     </div>
